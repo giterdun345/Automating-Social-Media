@@ -1,0 +1,123 @@
+{
+"4.png424630": {
+		"filename": "4.png",
+		"size": 424630,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [839, 848, 947, 966, 964, 951, 852, 837, 835, 835, 839],
+				"all_points_y": [550, 535, 535, 546, 565, 576, 576, 565, 554, 550, 550]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	},
+"14.png340093": {
+		"filename": "14.png",
+		"size": 340093,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [717, 728, 819, 830, 824, 815, 726, 715, 714],
+				"all_points_y": [468, 458, 458, 473, 490, 494, 495, 486, 470]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	},
+"24.png27359": {
+		"filename": "24.png",
+		"size": 27359,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [159, 164, 183, 185, 183, 161, 158],
+				"all_points_y": [103, 101, 101, 104, 111, 111, 108]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	},
+"34.png282419": {
+		"filename": "34.png",
+		"size": 282419,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [679, 689, 775, 787, 777, 689, 680, 679],
+				"all_points_y": [430, 419, 419, 431, 451, 452, 442, 428]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	},
+"44.png50557": {
+		"filename": "44.png",
+		"size": 50557,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [238, 242, 271, 277, 276, 271, 240, 238],
+				"all_points_y": [159, 152, 153, 156, 163, 165, 165, 160]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	},
+"54.png460940": {
+		"filename": "54.png",
+		"size": 460940,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [954, 969, 1089, 1109, 1089, 971, 954],
+				"all_points_y": [628, 614, 614, 633, 661, 661, 646]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	},
+"64.png824660": {
+		"filename": "64.png",
+		"size": 824660,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [1272, 1288, 1449, 1476, 1466, 1449, 1292, 1272],
+				"all_points_y": [845, 818, 815, 845, 868, 881, 877, 864]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	},
+"71.png99132": {
+		"filename": "71.png",
+		"size": 99132,
+		"regions": [{
+			"shape_attributes": {
+				"name": "polyline",
+				"all_points_x": [357, 362, 409, 414, 413, 409, 364, 358, 357],
+				"all_points_y": [237, 229, 229, 235, 243, 248, 248, 245, 240]
+			},
+			"region_attributes": {
+				"unfollow": "1"
+			}
+		}],
+		"file_attributes": {}
+	}
+
+}
